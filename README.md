@@ -1,3 +1,5 @@
+Fork directly from [al-folio's](https://github.com/alshedivat/al-folio), not from here.
+
 [victor-alves.com](https://victor-alves.com)
 
 

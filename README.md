@@ -1,9 +1,5 @@
-Fork directly from [al-folio's](https://github.com/alshedivat/al-folio), not from here.
-
-[victor-alves.com](https://victor-alves.com)
 
 
-[victoraalves.github.io](https://victoraalves.github.io) - Mirror.
+https://sdutta4587.github.io
 
-My personal website, based on [al-folio's](https://github.com/alshedivat/al-folio) template, in which you can find my bio, publications, repositories and my cv.
 
